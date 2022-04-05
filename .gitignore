@@ -1,0 +1,7 @@
+tmp
+*.db
+*.sln
+*.vcxproj
+*.vcxproj.*
+.vs
+x64
